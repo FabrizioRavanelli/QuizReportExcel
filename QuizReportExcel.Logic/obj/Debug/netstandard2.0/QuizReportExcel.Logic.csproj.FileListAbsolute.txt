@@ -1,0 +1,12 @@
+D:\projects\fiverr\QuizReport\QuizReportExcel\QuizReportExcel.Logic\bin\Debug\netstandard2.0\QuizReportExcel.Logic.deps.json
+D:\projects\fiverr\QuizReport\QuizReportExcel\QuizReportExcel.Logic\bin\Debug\netstandard2.0\QuizReportExcel.Logic.dll
+D:\projects\fiverr\QuizReport\QuizReportExcel\QuizReportExcel.Logic\bin\Debug\netstandard2.0\QuizReportExcel.Logic.pdb
+D:\projects\fiverr\QuizReport\QuizReportExcel\QuizReportExcel.Logic\bin\Debug\netstandard2.0\Utilities.dll
+D:\projects\fiverr\QuizReport\QuizReportExcel\QuizReportExcel.Logic\bin\Debug\netstandard2.0\EPPlus.dll
+D:\projects\fiverr\QuizReport\QuizReportExcel\QuizReportExcel.Logic\bin\Debug\netstandard2.0\Utilities.pdb
+D:\projects\fiverr\QuizReport\QuizReportExcel\QuizReportExcel.Logic\obj\Debug\netstandard2.0\QuizReportExcel.Logic.csprojResolveAssemblyReference.cache
+D:\projects\fiverr\QuizReport\QuizReportExcel\QuizReportExcel.Logic\obj\Debug\netstandard2.0\QuizReportExcel.Logic.csproj.CoreCompileInputs.cache
+D:\projects\fiverr\QuizReport\QuizReportExcel\QuizReportExcel.Logic\obj\Debug\netstandard2.0\QuizReportExcel.Logic.AssemblyInfoInputs.cache
+D:\projects\fiverr\QuizReport\QuizReportExcel\QuizReportExcel.Logic\obj\Debug\netstandard2.0\QuizReportExcel.Logic.AssemblyInfo.cs
+D:\projects\fiverr\QuizReport\QuizReportExcel\QuizReportExcel.Logic\obj\Debug\netstandard2.0\QuizReportExcel.Logic.dll
+D:\projects\fiverr\QuizReport\QuizReportExcel\QuizReportExcel.Logic\obj\Debug\netstandard2.0\QuizReportExcel.Logic.pdb

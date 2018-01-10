@@ -1,0 +1,11 @@
+D:\projects\fiverr\QuizReport\QuizReportExcel\Utilities\bin\Debug\netstandard2.0\Utilities.deps.json
+D:\projects\fiverr\QuizReport\QuizReportExcel\Utilities\bin\Debug\netstandard2.0\Utilities.dll
+D:\projects\fiverr\QuizReport\QuizReportExcel\Utilities\bin\Debug\netstandard2.0\Utilities.pdb
+D:\projects\fiverr\QuizReport\QuizReportExcel\Utilities\bin\Debug\netstandard2.0\DocumentFormat.OpenXml.dll
+D:\projects\fiverr\QuizReport\QuizReportExcel\Utilities\bin\Debug\netstandard2.0\EPPlus.dll
+D:\projects\fiverr\QuizReport\QuizReportExcel\Utilities\obj\Debug\netstandard2.0\Utilities.csprojResolveAssemblyReference.cache
+D:\projects\fiverr\QuizReport\QuizReportExcel\Utilities\obj\Debug\netstandard2.0\Utilities.csproj.CoreCompileInputs.cache
+D:\projects\fiverr\QuizReport\QuizReportExcel\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfoInputs.cache
+D:\projects\fiverr\QuizReport\QuizReportExcel\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfo.cs
+D:\projects\fiverr\QuizReport\QuizReportExcel\Utilities\obj\Debug\netstandard2.0\Utilities.dll
+D:\projects\fiverr\QuizReport\QuizReportExcel\Utilities\obj\Debug\netstandard2.0\Utilities.pdb
