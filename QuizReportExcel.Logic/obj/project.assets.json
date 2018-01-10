@@ -202,11 +202,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\projects\\fiverr\\QuizReport\\QuizReportExcel\\QuizReportExcel.Logic\\QuizReportExcel.Logic.csproj",
+      "projectUniqueName": "D:\\projects\\git\\fiverr\\QuizReportExcel\\QuizReportExcel.Logic\\QuizReportExcel.Logic.csproj",
       "projectName": "QuizReportExcel.Logic",
-      "projectPath": "D:\\projects\\fiverr\\QuizReport\\QuizReportExcel\\QuizReportExcel.Logic\\QuizReportExcel.Logic.csproj",
+      "projectPath": "D:\\projects\\git\\fiverr\\QuizReportExcel\\QuizReportExcel.Logic\\QuizReportExcel.Logic.csproj",
       "packagesPath": "C:\\Users\\Sigfrid\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\fiverr\\QuizReport\\QuizReportExcel\\QuizReportExcel.Logic\\obj\\",
+      "outputPath": "D:\\projects\\git\\fiverr\\QuizReportExcel\\QuizReportExcel.Logic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -225,8 +225,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\projects\\fiverr\\QuizReport\\QuizReportExcel\\Utilities\\Utilities.csproj": {
-              "projectPath": "D:\\projects\\fiverr\\QuizReport\\QuizReportExcel\\Utilities\\Utilities.csproj"
+            "D:\\projects\\git\\fiverr\\QuizReportExcel\\Utilities\\Utilities.csproj": {
+              "projectPath": "D:\\projects\\git\\fiverr\\QuizReportExcel\\Utilities\\Utilities.csproj"
             }
           }
         }
